@@ -1,0 +1,26 @@
+{
+  "name": "Portfolio-Website",
+  "version": "1.0.0",
+  "description": "Website created with HTML & TailwindCSS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bram-Reuling/Portfolio-Website.git"
+  },
+  "keywords": [],
+  "author": "Bram Reuling <info@bramreuling.com> (https://bramreuling.com/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bram-Reuling/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/Bram-Reuling/Portfolio-Website#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.7",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.5"
+  }
+}
